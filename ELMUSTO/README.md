@@ -1,5 +1,5 @@
 
-# Btc-Bomb [.gg/btcturk]
+# Btc-Bomb
 Z-Bomb, projesinden yararlanarak tarafımca bir kaç modifikasyon ve editlemeler yapıldı.
 # Gereken Programlar
 - En son Python sürümü
@@ -11,8 +11,11 @@ Windowsta direkt olarak baslat.bat dosyası ile çalıştırabilirsiniz.
 ```
 
 ```
-git clone https://github.com/yildirimlord/BtcTurk-SmsBomber.git
-cd Btcturk-SmsBomber
+pip3 install python
+pip3 install python3
+pip3 install GitSCM
+git clone https://github.com/TheDarkGuardian/sms-bomb.git
+cd ELMUSTO
 pip3 install -r requirements.txt
 python3 btcbomb.py
 ```
